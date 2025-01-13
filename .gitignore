@@ -29,7 +29,6 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
 
 # Symbolication related
 app.*.symbols
@@ -48,3 +47,15 @@ app.*.map.json
 /macos/
 /web/
 /windows/
+/build/*
+!/build/app/
+/build/app/generated/
+/build/app/intermediates/
+/build/app/kotlin/
+/build/app/kotlinToolingMetadata/
+/build/app/tmp
+/build/app/outputs/apk/
+/build/app/outputs/logs/
+/build/app/outputs/mapping/
+/build/app/outputs/sdk-dependencies/
+
