@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{perfectpitch2}
+Challenge, P.P.: Perfect pitch challenge on apple app store (2025),
+  \url{https://apps.apple.com/us/app/perfect-pitch-challenge/id6737245651},
+  accessed: 2025-01-18
+
+\bibitem{perfectpitch1}
+Challenge, P.P.: Perfect pitch challenge on google play (2025),
+  \url{https://play.google.com/store/apps/details?id=com.monstermitt.perfectpitchchallange&hl=en},
+  accessed: 2025-01-18
+
+\bibitem{flutterOverview}
+Team, F.D.: Cross-platform development with flutter: An overview. In:
+  Proceedings of the Mobile Development Conference. pp. 45--50. DevCon
+  Publishers (2019)
+
+\end{thebibliography}
